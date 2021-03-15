@@ -5,9 +5,10 @@
 ## Processingの応用
 
 Processingの応用を選んだ方は、以下の外部サイトに教材があるので、そちらを参照してください。
-https://qnighy.info/kkai2016-summer/
-ID: kkai
-password: Xe8oocue
+
+- URL: [https://qnighy.info/kkai2016-summer/](https://qnighy.info/kkai2016-summer/)
+- ID: kkai
+- password: Xe8oocue
 
 ## 言語処理系,計算困難問題
 
