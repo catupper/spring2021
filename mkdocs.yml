@@ -1,0 +1,16 @@
+site_name: K-kai Hackathon Spring 2021
+
+nav:
+  - Home: index.md
+  - 言語処理系: lang_processor.md
+  - 計算困難問題: hard_computing.md
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+extra_javascript:
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
